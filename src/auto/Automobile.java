@@ -1,8 +1,5 @@
 package auto;
 
-// This file was created with assistance from ChatGPT.
-// I modified the constructor validation, VIN validation,
-// price validation, and object identity behavior.
 
 public class Automobile {
 
